@@ -17,7 +17,7 @@ body{
 
 #container{
     display: flex;
-    overflow-y: scroll;
+    overflow: scroll;
     max-height: 700px;
     background-color: #fff;
     width:65%;
